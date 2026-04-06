@@ -1,0 +1,10 @@
+esx_advancedpolice/
+├── client/
+│   ├── main.lua
+│   └── ui.lua (لأوامر القائمة التفاعلية)
+├── server/
+│   ├── main.lua
+│   └── events.lua (للتعامل مع الأحداث)
+├── config.lua
+├── fxmanifest.lua
+└── README.md
